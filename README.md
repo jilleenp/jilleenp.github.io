@@ -2,6 +2,20 @@
 
 # Digital garden Jekyll template
 
+---
+### Personal Notes
+#### For Testing
+bundle install
+bundle exec jekyll serve --livereload
+[`http://localhost:4000`](http://localhost:4000/)
+
+### # For Publishing
+
+
+
+
+
+
 Use this template repository to get started with your own digital garden.
 
 **I wrote a tutorial explaining how to set it up: [Setting up your own digital garden with Jekyll](https://maximevaillancourt.com/blog/setting-up-your-own-digital-garden-with-jekyll)**
