@@ -1,8 +1,8 @@
 {
 	"version": 3,
-	"file": "styles.css",
+	"file": "main.css",
 	"sources": [
-		"styles.scss",
+		"main.scss",
 		"assets/css/_sass/variables.scss",
 		"assets/css/_sass/footer-social.scss",
 		"assets/css/_sass/projects.scss",
