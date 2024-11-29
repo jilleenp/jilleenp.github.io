@@ -14,9 +14,9 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 lang: en-US
-title: Neen Bean
-email:
-description:
+title: Jilleen Walch Phillips
+email: jilleenphillips@yahoo.com
+description: Welcome to my cozy corner of the internet, where I share my reflections on my world.
 # baseurl: "" # the optional subpath of your site, e.g. "/blog"
 url: https://jilleenp.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 author:
@@ -37,7 +37,7 @@ algolia:
 
 # Build settings
 markdown: kramdown
-# theme: jekyll-theme-basically-basic
+# theme: jekyll-theme-basically-basic - Not sure why, but this line was in original theme when forked, but causes problems when deployed ti github pages
 plugins: # previsously gems
   - jekyll-feed
   - jekyll-seo-tag
