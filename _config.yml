@@ -14,10 +14,10 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 lang: en-US
-title: Neen Bean Reflections
+title: Neen Bean
 email:
 description:
-baseurl: "" # the optional subpath of your site, e.g. "/blog"
+# baseurl: "" # the optional subpath of your site, e.g. "/blog"
 url: https://jilleenp.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 author:
   name: Jilleen Phillips
